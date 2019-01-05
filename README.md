@@ -1,20 +1,17 @@
-[![Build Status](https://secure.travis-ci.org/Sendanor/nor-extend.png?branch=master)](http://travis-ci.org/Sendanor/nor-extend)
+@norjs/extend
+=============
 
-nor-extend
-==========
-
-Extend Q promises with methods from another object prototype.
+Extend promises with methods from another object prototype.
 
 Installation
 ------------
 
-The lib can be installed from the NPM by `npm install nor-extend`.
+The lib can be installed from the NPM by `npm install @norjs/extend`.
 
-Projects using `nor-extend`
----------------------------
+Projects using `@norjs/extend`
+------------------------------
 
-* [nor-fs](https://github.com/Sendanor/nor-fs#nor-fs)
-* [nor-db](https://github.com/Sendanor/nor-db#nor-db)
+* [@norjs/pg](https://github.com/norjs/pg)
 
 Example usage
 -------------
@@ -185,4 +182,4 @@ otherwise it will not work.
 Commercial Support
 ------------------
 
-You can buy commercial support from [Sendanor](http://sendanor.com/software).
+You can buy commercial support from [Sendanor](http://sendanor.com/).
