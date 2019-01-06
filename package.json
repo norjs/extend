@@ -1,6 +1,6 @@
 {
   "name": "@norjs/extend",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Extends promises with custom methods from another object",
   "main": "./dist/index.js",
   "scripts": {
