@@ -2,7 +2,7 @@
   "name": "@norjs/extend",
   "version": "1.3.2",
   "description": "Extends promises with custom methods from another object",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "compile-watch": "babel --watch -d dist/ src/",
     "compile": "babel -d dist/ src/",
